@@ -1,1 +1,2 @@
-Hello I am Samra Qureshi, learning about GIT and GITHUB
+Hello I am Samra Qureshi, learning about GIT and GITHUB.
+I hope you enoj learning too
